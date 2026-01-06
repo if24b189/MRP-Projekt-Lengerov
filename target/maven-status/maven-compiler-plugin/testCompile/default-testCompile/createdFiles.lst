@@ -1,0 +1,6 @@
+org\example\auth\AuthServiceTest.class
+org\example\services\FavoriteServiceTest.class
+org\example\services\UserServiceTest.class
+org\example\services\MediaServiceTest.class
+org\example\util\JsonUtilTest.class
+org\example\services\RatingServiceTest.class

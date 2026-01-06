@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.auth.AuthServiceTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.082 s -- in org.example.auth.AuthServiceTest
